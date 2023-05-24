@@ -7,5 +7,9 @@
 	"settings": {
 		"liveServer.settings.CustomBrowser": "chrome",
 		"liveServer.settings.useLocalIp": false
+		"files.autoSave": "afterDelay",
+		"git.confirmSync": false,
+		"liveServer.settings.showOnStatusbar":true,
+		"liveServer.settings.wait": 50
 	}
 }
