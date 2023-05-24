@@ -10,6 +10,7 @@
 		"files.autoSave": "afterDelay",
 		"git.confirmSync": false,
 		"liveServer.settings.showOnStatusbar":true,
-		"liveServer.settings.wait": 50
+		"liveServer.settings.wait": 10
+	
 	}
 }
